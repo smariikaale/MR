@@ -12,3 +12,6 @@
 #A-added to git
 #M-modified
 #Connecting project to github repository- git remote add origin ssh_key(one time for a project)
+
+#git branching in git-allows multiple employees to work on a single project
+#to create a branch-git checkout -b branch_name
